@@ -32,6 +32,6 @@
 ![nmh](https://github.com/user-attachments/assets/6b54bc78-dc2a-4ae4-9d37-53c7cf81c531) ![rg](https://github.com/user-attachments/assets/981aeef8-5c37-49b9-b2fc-a48a3d7e1fd0) ![dw](https://github.com/user-attachments/assets/5c461adf-08f0-4ae2-ad37-8cc7764b4ac1)
 
 
-# 느낀점 및 역할
+# 느낀점
 * 이 프로젝트는 급속히 고령화되는 사회에서 노인의 안전을 보장할 수 있는 중요한 기술적 해결책을 제시합니다. 특히, 낙상 사고와 같은 위급 상황에서 빠른 대응이 가능하도록 하여 노인의 생명과 건강을 보호하는 데 기여할 수 있습니다. 앞으로 기술을 더욱 발전시켜 다양한 환경에서도 적용 가능하도록 개선할 여지가 있습니다.
 
